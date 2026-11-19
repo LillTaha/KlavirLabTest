@@ -40,6 +40,3 @@ Mouse 1 was frozen for 10 of 20 seconds (50%).
 4. Write a short message, click **Commit to main**, then **Push origin**.
 5. Refresh your fork on github.com. Your change is now in its history.
 
-## Contact
-
-Maintained by [name], Klavir Lab.
