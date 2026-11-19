@@ -26,3 +26,4 @@ for second, speed in enumerate(speeds):
 
 percent = 100 * frozen_seconds / len(speeds)
 print(f"\n{MOUSE_NAME} was frozen for {frozen_seconds} of {len(speeds)} seconds ({percent:.0f}%).")
+print("Hi")
